@@ -1,0 +1,6 @@
+{
+  "name": "Assessment COMET — Perfil Mental",
+  "description": "Reprodução fiel do teste Perfil Mental (Ned Herrmann adaptado) com 25 questões, apuração determinística, gráfico dos 4 perfis e 4 combinações, e relatório individual completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
